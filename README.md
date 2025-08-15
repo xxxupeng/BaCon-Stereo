@@ -1,6 +1,6 @@
 <div align="center">
   
-# Self-Supervised Stereo Matching with Multi-Baseline Contrastive Learning
+## Self-Supervised Stereo Matching with Multi-Baseline Contrastive Learning
 
 </div>
 
